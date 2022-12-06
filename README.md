@@ -10,7 +10,8 @@ PacMan written in Haskell using Gloss
   - cabal build
   - cabal run
   
+  Use WASD or UP,DOWN,LEFT,RIGHT arrow keys to move around and ESC key to quit. Just like the original game, your goal is to collect all the pellets. Good luck!
+  
 # Credits:
 Ghost AI/behavior all based off this article: https://gameinternals.com/understanding-pac-man-ghost-behavior
   
-  Use WASD or UP,DOWN,LEFT,RIGHT arrow keys to move around and ESC key to quit. Just like the original game, your goal is to collect all the pellets. Good luck!
